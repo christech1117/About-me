@@ -65,14 +65,14 @@
 
 ## 作品集
 
-* [**才庫心理測評系統**](https://psyc.360d.com.tw/)
+* [**才庫心理測評系統**](https://psyc.360d.com.tw/)  
 ⌞ Javascript + jQuery 製作動畫效果  
 ⌞ Bootstrap3 搭配客製 CSS 製作頁面樣式  
 ⌞ ChertJS 呈現統計分析數據結果之數據圖  
 ⌞ PHP 處理寄信、EXCEL上傳下載、統計分析數據  
 ⌞ MySQL 資料庫設計，且建立適當的索引  
 
-* [**陽明醫學大學附設醫院公共藝術計畫 - 療癒之森**](http://ymuhpublicart.com/)
+* [**陽明醫學大學附設醫院公共藝術計畫 - 療癒之森**](http://ymuhpublicart.com/)  
 ⌞ Vue 使用 Vue-Router 實作 SPA 網站頁面  
 ⌞ Bootstrap4 搭配 Grid 快速搭建響應式網頁。  
 ⌞ SASS 管理頁面樣式  
@@ -80,14 +80,14 @@
 ## 未來計劃
 
 * 專業技能
-  1. 持續學習前端框架（Vue 或 React），將來也會開始研究 React Native 使程式跨平台使用。
-  2. 除了熟悉後端框架外（Laravel），精進 OOP 的能力，增進程式碼的品質並降低維護成本。
-  3. 精進對資料庫的設計與效能優化，讓一個系統未來的擴展性更有彈性。
-  4. 除了 Web 端外，學習 JAVA 與 Swift 等 Mobile 端技術。
+  * 持續學習前端框架（Vue 或 React），將來也會開始研究 React Native 使程式跨平台使用。
+  * 除了熟悉後端框架外（Laravel），精進 OOP 的能力，增進程式碼的品質並降低維護成本。
+  * 精進對資料庫的設計與效能優化，讓一個系統未來的擴展性更有彈性。
+  * 除了 Web 端外，學習 JAVA 與 Swift 等 Mobile 端技術。
 
 * 額外技能
-  1. 持續研究 SEO 搜尋引擎優化。
-  2. 持續學習 UI / UX 增加使用者體驗與流暢度。
+  * 持續研究 SEO 搜尋引擎優化。
+  * 持續學習 UI / UX 增加使用者體驗與流暢度。
 
 ---
 
