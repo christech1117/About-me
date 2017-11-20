@@ -45,7 +45,7 @@
  * jQuery 設計網頁動畫效果，了解如何使用第三方套件
  * JSON/Ajax 透過 Open Data 串接資料應用
  * 熟悉前端框架 Vue，有實際的專案開發經驗
- * 會 Schema.org，理解 SEO 引擎優化，
+ * 會 Schema.org，理解 SEO 引擎優化
  
 #### 後端 
 
